@@ -1,3 +1,3 @@
 autoprefixer-cli -o style.prefixed.css style.css
 
-node_modules/.bin/nu-html-checker cli -f *.html
+nu-html-checker cli -f *.html
