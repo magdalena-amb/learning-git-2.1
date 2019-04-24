@@ -3,6 +3,6 @@
   margin: 30px auto;
 }
 .row {
-  -ms-flex-pack: center;
-      justify-content: center;
+  display: flex;
+  justify-content: center;
 }
